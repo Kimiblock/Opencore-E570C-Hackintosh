@@ -1,33 +1,35 @@
 # Opencore-E570C-Hackintosh
 EFI for Lenovo Thinkpad E570C 
 
-OS               macOS Monterey Beta
+OS		macOS Monterey Beta
 
-CPU              Intel Core i5-6200u
+CPU		Intel Core i5-6200U
 
-Memory           8G from Samsung
+Memory		8G from Samsung
 
-Graphics         HD520        GeForce 940MX(Disabled by SSDT)
+Graphics	HD520 + GeForce 940MX(Disabled by SSDT)
 
-Screen           1366x768 LCD
+Screen		1366x768 LCD
 
-Battery          Stock
+Battery		Stock
 
-Opencore         0.7
+Opencore	0.7
 
-USB              2 USB 3.0   1 USB 2.0
+USB		2x USB 3.0   1x USB 2.0
 
-Trackpad         All gestures enabled with some MINOR ISSUES
+Trackpad	All gestures enabled with some MINOR ISSUES
 
-Wired            Realtek 8111
+Wired		Realtek 8111
 
-Wireless         Broadcom 1820A
+Wireless	Broadcom 1820A
 
 
 
 
 What wasn't working:
 
-Trackpad can't scroll after clicking 3 physical buttons
+Bluetooth doesn't work perfectly after Monterey.
 
-Lid close and FN function dosen't work after the first sleep. This have absolutely no solution.
+Trackpad can't scroll after clicking any physical button.
+
+Lid and FN function keys don't work after sleep.
